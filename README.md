@@ -142,9 +142,8 @@ Environment variables on Vercel
 
 ## Notes on AI usage
 
-- No AI models run in the application at runtime.
-- Documentation (this README) was authored with assistance from GitHub Copilot.
-- Code was reviewed and organized by a human; please report any inaccuracies.
+- AI is used in this project for making the UI of the application, so basically to write all the tailwind.
+- Another use of AI is for the implementing the voting system.
 
 ## Troubleshooting
 
